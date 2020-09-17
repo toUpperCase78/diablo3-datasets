@@ -1,0 +1,32 @@
+Act,Quest No,Quest Name,Normal Min,Normal Max,Nightmare Min,Nightmare Max,Hell Min,Hell Max,Inferno Min,Inferno Max
+I,1,The Fallen Star,1,6,29,34,49,52,60,60
+I,2,The Legacy of Cain,1,9,31,36,50,53,60,60
+I,3,A Shattered Crown,2,10,31,37,51,53,60,60
+I,4,Reign of the Black King,4,13,33,38,51,54,60,60
+I,5,Sword of the Stranger,5,13,33,39,52,54,60,60
+I,6,The Broken Blade,6,14,34,39,52,55,60,60
+I,7,The Doom in Wortham,8,16,35,41,53,55,60,60
+I,8,Trailing the Coven,8,16,35,41,53,55,60,60
+I,9,The Imprisoned Angel,12,20,38,43,54,57,60,60
+I,10,Return to New Tristram,,,,,,,,
+II,1,Shadows in the Desert,12,20,38,43,54,57,60,60
+II,2,The Road to Alcarnus,13,21,39,44,54,57,60,60
+II,3,City of Blood,14,22,39,45,55,57,60,60
+II,4,A Royal Audience,15,23,40,45,50,58,60,60
+II,5,Unexpected Allies,16,24,41,46,55,58,60,60
+II,6,Betrayer of the Horadrim,17,25,41,47,56,58,60,60
+II,7,Blood and Sand,18,26,42,47,56,59,60,60
+II,8,The Black Soulstone,18,26,42,47,56,59,60,60
+II,9,The Scouring of Caldeum,20,28,43,49,57,59,60,60
+II,10,Lord of Lies,21,29,44,49,57,60,60,60
+III,1,The Siege of Bastion's Keep,21,29,44,49,57,60,60,60
+III,2,Turning the Tide,22,30,45,50,57,60,60,60
+III,3,The Breached Keep,23,31,45,51,58,60,60,60
+III,4,Tremors in the Stone,23,31,45,51,58,60,60,60
+III,5,Machines of War,23,31,45,51,58,60,60,60
+III,6,Siegebreaker,24,32,46,51,58,60,60,60
+III,7,Heart of Sin,24,32,46,51,58,60,60,60
+IV,1,Fall of the High Heavens,25,33,47,52,58,60,60,60
+IV,2,The Light of Hope,26,34,47,53,59,60,60,60
+IV,3,Beneath the Spire,,,,,,,,
+IV,4,Prime Evil,28,36,49,54,59,60,60,60
