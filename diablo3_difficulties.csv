@@ -1,0 +1,21 @@
+Difficulty,Monster Health(%),Monster Damage(%),Extra Gold Bonus(%),Extra XP Bonus(%),Imperial Gem Drop,Specific Legendary Items, Equivalent Greater Rift Difficulty
+Normal,100,100,0,0,False,False,
+Hard,200,130,75,75,False,False,1
+Expert,320,189,100,100,False,False,4
+Master,512,273,200,200,True,False,7
+Torment I,819,396,300,300,True,True,10
+Torment II,1311,575,400,400,True,True,13
+Torment III,2097,833,550,550,True,True,16
+Torment IV,3355,1208,800,800,True,True,19
+Torment V,5369,1752,1150,1150,True,True,22
+Torment VI,8590,2540,1600,1600,True,True,25
+Torment VII,18985,3604,1850,1900,True,True,30
+Torment VIII,41625,5097,2150,2425,True,True,35
+Torment IX,91260,7208,2500,3100,True,True,40
+Torment X,200082,10194,2900,4000,True,True,45
+Torment XI,438669,14416,3350,5000,True,True,50
+Torment XII,961759,20387,3900,6400,True,True,55
+Torment XIII,2108607,28832,4500,8200,True,True,60
+Torment XIV,2889383,40774,5200,10500,True,True,65
+Torment XV,6334823,57664,6050,13400,True,True,70
+Torment XVI,13888770,64725,7000,17000,True,True,75
