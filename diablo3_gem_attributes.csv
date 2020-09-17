@@ -1,0 +1,51 @@
+Gem,Tier,Effect on Weapon,Effect on Helm,Effect on Others
+Ruby,Regular,+9 Damage,+10% XP Bonus,+10 Strength
+Ruby,Flawless,+15 Damage,+15% XP Bonus,+20 Strength
+Ruby,Square,+30 Damage,+20% XP Bonus,+30 Strength
+Ruby,Flawless Square,+60 Damage,+25% XP Bonus,+40 Strength
+Ruby,Star,+130 Damage,+31% XP Bonus,+58 Strength
+Ruby,Marquise,+160 Damage,+33% XP Bonus,+62 Strength
+Ruby,Imperial,+190 Damage,+35% XP Bonus,+100 Strength
+Ruby,Flawless Imperial,+220 Damage,+37% XP Bonus,+160 Strength
+Ruby,Royal,+250 Damage,+39% XP Bonus,+220 Strength
+Ruby,Flawless Royal,+270 Damage,+41% XP Bonus,+280 Strength
+Emerald,Regular,+20% Critical Hit Damage,+10% Extra Gold From Monsters,+10 Dexterity
+Emerald,Flawless,+40% Critical Hit Damage,+15% Extra Gold From Monsters,+20 Dexterity
+Emerald,Square,+60% Critical Hit Damage,+20% Extra Gold From Monsters,+30 Dexterity
+Emerald,Flawless Square,+80% Critical Hit Damage,+25% Extra Gold From Monsters,+40 Dexterity
+Emerald,Star,+100% Critical Hit Damage,+31% Extra Gold From Monsters,+58 Dexterity
+Emerald,Marquise,+105% Critical Hit Damage,+33% Extra Gold From Monsters,+62 Dexterity
+Emerald,Imperial,+110% Critical Hit Damage,+35% Extra Gold From Monsters,+100 Dexterity
+Emerald,Flawless Imperial,+115% Critical Hit Damage,+37% Extra Gold Monsters,+160 Dexterity
+Emerald,Royal,+120% Critical Hit Damage,+39% Extra Gold From Monsters,+220 Dexterity
+Emerald,Flawless Royal,+130% Critical Hit Damage,+41% Extra Gold From Monsters,+280 Dexterity
+Topaz,Regular,+30 Thorns Damage,-3.5% All Resource Costs,+10 Intelligence
+Topaz,Flawless,+100 Thorns Damage,-5.0% All Resource Costs,+20 Intelligence
+Topaz,Square,+300 Thorns Damage,-6.5% All Resource Costs,+30 Intelligence
+Topaz,Flawless Square,+600 Thorns Damage,-8.0% All Resource Costs,+40 Intelligence
+Topaz,Star,+1800 Thorns Damage,-10.0% All Resource Costs,+58 Intelligence
+Topaz,Marquise,+4000 Thorns Damage,-10.5% All Resource Costs,+62 Intelligence
+Topaz,Imperial,+8000 Thorns Damage,-11.0% All Resource Costs,+100 Intelligence
+Topaz,Flawless Imperial,+14000 Thorns Damage,-11.5% All Resource Costs,+160 Intelligence
+Topaz,Royal,+26000 Thorns Damage,-12.0% All Resource Costs,+220 Intelligence
+Topaz,Flawless Royal,+38000 Thorns Damage,-12.5% All Resource Costs,+280 Intelligence
+Amethyst,Regular,+35 Life Per Hit,+10% Life,+10 Vitality
+Amethyst,Flawless,+160 Life Per Hit,+12% Life,+20 Vitality
+Amethyst,Square,+260 Life Per Hit,+14% Life,+30 Vitality
+Amethyst,Flawless Square,+750 Life Per Hit,+16% Life,+40 Vitality
+Amethyst,Star,+1500 Life Per Hit,+18% Life,+58 Vitality
+Amethyst,Marquise,+1750 Life Per Hit,+19% Life,+62 Vitality
+Amethyst,Imperial,+7500 Life Per Hit,+20% Life,+100 Vitality
+Amethyst,Flawless Imperial,+16000 Life Per Hit,+21% Life,+160 Vitality
+Amethyst,Royal,+22000 Life Per Hit,+22% Life,+220 Vitality
+Amethyst,Flawless Royal,+28000 Life Per Hit,+23% Hit,+280 Vitality
+Diamond,Regular,+3% Damage Against Elites,-3.5% Cooldown of All Skills,+10 Resistance to All Elements
+Diamond,Flawless,+6% Damage Against Elites,-5.0% Cooldown of All Skills,+20 Resistance to All Elements
+Diamond,Square,+9% Damage Against Elites,-6.5% Cooldown of All Skills,+30 Resistance to All Elements
+Diamond,Flawless Square,+12% Damage Against Elites,-8.0% Cooldown of All Skills,+40 Resistance to All Elements
+Diamond,Star,+15% Damage Against Elites,-10.0% Cooldown of All Skills,+58 Resistance to All Elements
+Diamond,Marquise,+16% Damage Against Elites,-10.5% Cooldown of All Skills,+62 Resistance to All Elements
+Diamond,Imperial,+17% Damage Against Elites,-11.0% Cooldown of All Skills,+66 Resistance to All Elements
+Diamond,Flawless Imperial,+18% Damage Against Elites,-11.5% Cooldown of All Skills,+70 Resistance to All Elements
+Diamond,Royal,+19% Damage Against Elites,-12.0% Cooldown of All Skills,+74 Resistance to All Elements
+Diamond,Flawless Royal,+20% Damage Against Elites,-12.5% Cooldown of All Skills,+78 Resistance to All Elements
