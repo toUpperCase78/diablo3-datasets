@@ -1,0 +1,166 @@
+Type,Name,Effect,Min1,Max1,Min2,Max2,Min3,Max3,Class Restriction
+Prefix,Indestructible,Ignores Durability Loss,,,,,,,
+Prefix,Socketed,Empty Sockets,1,3,,,,,
+Prefix,Fleet,Increases Movement Speed,10%,12%,,,,,
+Prefix,Restless,Monster Kills Grant Experience,100,139,,,,,
+Prefix,Assailing,Increases Attack Speed,5.0%,6.0%,,,,,
+Prefix,Avaricious,Increases Gold and Health Pickup Distance,1 Yard,2 Yards,,,,,
+Prefix,Prosperous,Extra Gold from Monsters,29%,31%,61%,70%,,,
+Prefix,Insightful,Reduces cooldown of all skills,4.0%,7.0%,5.0%,9.0%,,,
+Prefix,Masterful,Reduces all resource costs,3.0%,4.0%,5.0%,7.0%,7.0%,9.0%,
+Prefix,Brazen,Reduces duration of control impairing effects,10%,30%,,,,,
+Prefix,Deflecting,Reduces damage from ranged attacks,5.0%,6.0%,,,,,
+Prefix,Resolute,Reduces damage from elites,8.0%,9.0%,,,,,
+Prefix,Savage,+Damage,5.0%,8.0%,,,,,
+Prefix,Lacerating,Increases Critical Hit Chance,4.5%,6.0%,7.0%,10.0%,,,
+Prefix,Deadly,Increases Critical Hit Damage,26%,50%,51%,100%,,,
+Prefix,Executing,Increases Damage Against Elites,4.0%,7.0%,8.0%,9.0%,,,
+Prefix,Inundating,Chance to Deal Area Damage on Hit,10%,12%,10%,16%,14%,20%,
+Prefix,Exsanguinating,Chance to inflict Bleed for 400% weapon damage over 5 seconds,32%,37%,,,,,
+Prefix,Perplexing,Chance to Blind on Hit,1.0%,2.2%,1.0%,4.5%,,,
+Prefix,Smashing,Chance to Knockback on Hit,1.0%,2.2%,1.0%,4.5%,,,
+Prefix,Glacial,Chance to Chill on Hit,1.0%,2.2%,1.0%,4.5%,,,
+Prefix,Persecuting,Chance to Slow on Hit,1.0%,2.2%,1.0%,4.5%,,,
+Prefix,Astral,Arcane skills deal more damage,10.0%,15.0%,,,,,
+Prefix,Smoldering,Fire skills deal more damage,10.0%,15.0%,,,,,
+Prefix,Shocking,Lightning skills deal more damage,10.0%,15.0%,,,,,
+Prefix,Imposing,Physical skills deal more damage,10.0%,15.0%,,,,,
+Prefix,Toxic,Poison skills deal more damage,10.0%,15.0%,,,,,
+Prefix,Stalwart,+Life,8%,14%,12%,16%,,,
+Prefix,Undying,Regenerates Life per Second,2753,4642,3824,6447,,,
+Prefix,Euphoric,Health Globes and Potions Grant +Life,14231,20000,,,,,
+Prefix,Chromatic,+Resistance to All Elements,86,90,,,,,
+Prefix,Hermetic,+Physical Resistance,121,140,,,,,
+Prefix,Beguiling,+Arcane Resistance,121,140,,,,,
+Prefix,Charred,+Fire Resistance,121,140,,,,,
+Prefix,Sheltering,+Cold Resistance,121,140,,,,,
+Prefix,Untarnished,+Poison Resistance,121,140,,,,,
+Prefix,Tranquil,+Lightning Resistance,121,140,,,,,
+Prefix,Judgmental,Maximum Wrath,2,4,4,5,12,14,Crusader
+Prefix,Judgmental,Increases Wrath Regeneration per Second,1.7,1.8,3.4,3.7,,,Crusader
+Prefix,Dedicated,Gain Life per Wrath Spent,476,1073,,,,,Crusader
+Prefix,Exalted,Gain Life per Spirit Spent,157,350,,,,,Monk
+Prefix,Reborn,Maximum Spirit,13,14,26,28,,,Monk
+Prefix,Enlightening,Increases Spirit Regeneration per Second,1.8,2.5,,,,,Monk
+Prefix,Confident,Maximum Discipline,8,10,,,,,Demon Hunter
+Prefix,Vengeful,Increases Hatred Regeneration per Second,1.2,1.3,,,,,Demon Hunter
+Prefix,Unearthly,Maximum Mana,120,150,,,,,Witch Doctor
+Prefix,Intensifying,Increases Mana Regeneration per Second,12,14,,,,,Witch Doctor
+Prefix,Sly,Maximum Arcane Power,7,9,,,,,Wizard
+Prefix,Mental,Maximum Arcane Power,10,12,13,14,,,Wizard
+Prefix,Efficacious,Maximum Essence,15,18,30,36,,,Necromancer
+Suffix,of War,+Strength,350,415,525,625,,,
+Suffix,of Pain,+Dexterity,350,415,525,625,,,
+Suffix,of Far Sight,+Intelligence,350,415,525,625,,,
+Suffix,of Glory,+Vitality,350,415,525,625,,,
+Suffix,of Death,+Damage,747,1134,853,1296,1024,1556,
+Suffix,from Beyond,+Arcane Damage,747,1134,853,1296,1024,1556,
+Suffix,of the Heavens,+Holy Damage,747,1134,853,1296,1024,1556,
+Suffix,of Incineration,+Fire Damage,747,1134,853,1296,1024,1556,
+Suffix,of the Avalanche,+Cold Damage,747,1134,853,1296,1024,1556,
+Suffix,of Conflagration,+Lightning Damage,747,1134,853,1296,1024,1556,
+Suffix,of Blight,+Poison Damage,747,1134,853,1296,1024,1556,
+Suffix,of Horror,Chance to Fear on Hit,1.0%,2.2%,,,,,
+Suffix,of the Frozen Sea,Chance to Freeze on Hit,1.0%,2.2%,,,,,
+Suffix,of Sabotage,Chance to Immobilize on Hit,1.0%,2.2%,,,,,
+Suffix,of Ruin,Chance to Stun on Hit,1.0%,2.2%,,,,,
+Suffix,of the Castle,+Armor,340,364,509,545,,,
+Suffix,of Razors,+Thorns Damage,2015,2400,,,,,
+Suffix,of Spikes,+Thorns Damage,3758,5724,,,,,
+Suffix,of Extermination,+Life After Each Kill,2083,4251,3124,6427,4686,9141,
+Suffix,of Gore,Life per Hit,3412,7736,6823,15473,10238,23210,
+Suffix,of Invulnerability,Increased Chance to Block,10,10,,,,,
+Suffix,of the Gladiator,Reduces damage from melee attacks,5.0%,6.0%,,,,,
+Suffix,of Evisceration,Increases Rend Damage,8%,15%,,,,,Barbarian
+Suffix,of Conquest,Increases Overpower Damage,8%,15%,,,,,Barbarian
+Suffix,of Vertigo,Increases Whirlwind Damage,8%,15%,,,,,Barbarian
+Suffix,of the Maniac,Increases Frenzy Damage,8%,15%,,,,,Barbarian
+Suffix,of Demolition,Increases Hammer of the Ancients Damage,8%,15%,,,,,Barbarian
+Suffix,of Grappling,Increases Ancient Spear Damage,8%,15%,,,,,Barbarian
+Suffix,of Vengeance,Increases Revenge Damage,8%,15%,,,,,Barbarian
+Suffix,of Bruising,Increases Bash Damage,8%,15%,,,,,Barbarian
+Suffix,of Hurling,Increases Weapon Throw Damage,8%,15%,,,,,Barbarian
+Suffix,of the Summit,Increases Call of the Ancients Damage,8%,15%,,,,,Barbarian
+Suffix,of Falling Mountains,Increases Avalanche Damage,8%,15%,,,,,Barbarian
+Suffix,of Shattering,Increases Seismic Slam Damage,8%,15%,,,,,Barbarian
+Suffix,of the Rhinoceros,Increases Furious Charge Damage,8%,15%,,,,,Barbarian
+Suffix,of Tremors,Increases Earthquake Damage,8%,15%,,,,,Barbarian
+Suffix,of Sundering,Increases Cleave Damage,8%,15%,,,,,Barbarian
+Suffix,of Companion,Increases Companion Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Dark Skies,Increases Rain of Vengeance Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Prowess,Increases Strafe Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Blasting,Increases Elemental Arrow Damage,8%,15%,,,,,Demon Hunter
+Suffix,of the Boomerang,Increases Chakram Damage,8%,15%,,,,,Demon Hunter
+Suffix,of the Bounty Hunter,Increases Bolas Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Sentry,Increases Sentry Damage,8%,15%,,,,,Demon Hunter
+Suffix,of the Grenadier,Increases Grenade Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Volleys,Increases Multishot Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Splinters,Increases Cluster Arrow Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Spines,Increases Spike Trap Damage,8%,15%,,,,,Demon Hunter
+Suffix,of the Predator,Increases Hungering Arrow Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Concealed Blades,Increases Fan on Knives Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Suppression,Increases Evasive Fire Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Binding,Increases Entangling Shot Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Salvos,Increases Rapid Fire Damage,8%,15%,,,,,Demon Hunter
+Suffix,of Flogging,Increases Sweep Attack Damage,8%,15%,,,,,Crusader
+Suffix,of Holy Wrath,Increases Heaven's Fury Damage,8%,15%,,,,,Crusader
+Suffix,of the Celestine,Increases Fist of the Heavens Damage,8%,15%,,,,,Crusader
+Suffix,of Guillotine,Increases Falling Sword Damage,8%,15%,,,,,Crusader
+Suffix,of Judgment,Increases Justice Damage,8%,15%,,,,,Crusader
+Suffix,of Soldiery,Increases Phalanx Damage,8%,15%,,,,,Crusader
+Suffix,of Condemnation,Increases Condemn Damage,8%,15%,,,,,Crusader
+Suffix,of Torment,Increases Smite Damage,8%,15%,,,,,Crusader
+Suffix,of Rebounding,Increases Blessed Shield Damage,8%,15%,,,,,Crusader
+Suffix,of Consequences,Increases Punish Damage,8%,15%,,,,,Crusader
+Suffix,of Bashing,Increases Shield Bash Damage,8%,15%,,,,,Crusader
+Suffix,of Artillery,Increases Bombardment Damage,8%,15%,,,,,Crusader
+Suffix,of Laceration,Increases Slash Damage,8%,15%,,,,,Crusader
+Suffix,of Pummeling,Increases Blessed Hammer Damage,8%,15%,,,,,Crusader
+Suffix,of Corrosion,Increases Acid Cloud Damage,8%,15%,,,,,Witch Doctor
+Suffix,of Pestilence,Increases Locust Swarm Damage,8%,15%,,,,,Witch Doctor
+Suffix,of Blind Rage,Increases Zombie Charger Damage,8%,15%,,,,,Witch Doctor
+Suffix,of Blazing,Increases Firebomb Damage,8%,15%,,,,,Witch Doctor
+Suffix,of Deadly Dolls,Increases Fetish Army Damage,8%,15%,,,,,Witch Doctor
+Suffix,of the Deep,Increases Firebat Damage,8%,15%,,,,,Witch Doctor
+Suffix,of Devotion,Increases Sacrifice Damage,8%,15%,,,,,Witch Doctor
+Suffix,of Phantoms,Increases Spirit Barrage Damage,8%,15%,,,,,Witch Doctor
+Suffix,of the Lost,Increases Wall of Death Damage,8%,15%,,,,,Witch Doctor
+Suffix,of Cold Hands,Increases Grasp of the Dead Damage,8%,15%,,,,,Witch Doctor
+Suffix,of the Jungle,Increases Plague of Toads Damage,8%,15%,,,,,Witch Doctor
+Suffix,of Bursting,Increases Exploding Palm Damage,8%,15%,,,,,Monk
+Suffix,of Reflex,Increases Tempest Rush Damage,8%,15%,,,,,Monk
+Suffix,of Radiance,Increases Wave of Light Damage,8%,15%,,,,,Monk
+Suffix,of Pummeling,Increases Way of the Hundred Fists Damage,8%,15%,,,,,Monk
+Suffix,of the Scorpion,Increases Lashing Tail Kick Damage,8%,15%,,,,,Monk
+Suffix,of Sudden Speed,Increases Dashing Strike Damage,8%,15%,,,,,Monk
+Suffix,of Lunging,Increases Deadly Reach Damage,8%,15%,,,,,Monk
+Suffix,of the Monsoon,Increases Fists of Thunder Damage,8%,15%,,,,,Monk
+Suffix,of Breaking,Increases Crippling Wave Damage,8%,15%,,,,,Monk
+Suffix,of the Seven Sides,Increases Seven-Sided Strike Damage,8%,15%,,,,,Monk
+Suffix,of the Mystics,Increases Mystic Ally Damage,8%,15%,,,,,Monk
+Suffix,of the Hurricane,Increases Cyclone Strike Damage,8%,15%,,,,,Monk
+Suffix,of Spheres,Increases Arcane Orb Damage,8%,15%,,,,,Wizard
+Suffix,of Hail,Increases Blizzard Damage,8%,15%,,,,,Wizard
+Suffix,of Shooting Stars,Increases Arcane Torrent Damage,8%,15%,,,,,Wizard
+Suffix,of Evocation,Increases Magic Missile Damage,8%,15%,,,,,Wizard
+Suffix,of Chill,Increases Ray of Frost Damage,8%,15%,,,,,Wizard
+Suffix,of Wild Magic,Increases Energy Twister Damage,8%,15%,,,,,Wizard
+Suffix,of Detonation,Increases Explosive Blast Damage,8%,15%,,,,,Wizard
+Suffix,of Ruin,Increases Shock Pulse Damage,8%,15%,,,,,Wizard
+Suffix,of Slashing,Increases Spectral Blade Damage,8%,15%,,,,,Wizard
+Suffix,of the Singularity,Increases Black Hole Damage,8%,15%,,,,,Wizard
+Suffix,of the Wisp,Increases Familiar Damage,8%,15%,,,,,Wizard
+Suffix,of Entropy,Increases Disintegrate Damage,8%,15%,,,,,Wizard
+Suffix,of Presence,Increases Death Nova Damage,8%,15%,,,,,Necromancer
+Suffix,of the Lich,Increases Skeletal Mage Damage,8%,15%,,,,,Necromancer
+Suffix,of Desecration,Increases Corpse Explosion Damage,8%,15%,,,,,Necromancer
+Suffix,of Puncturing,Increases Corpse Lance Damage,8%,15%,,,,,Necromancer
+Suffix,of Skeletal Mastery,Increases Command Skeletons Damage,8%,15%,,,,,Necromancer
+Suffix,of Reaping,Increases Grim Sctyhe Damage,8%,15%,,,,,Necromancer
+Suffix,of Return,Increases Revive Damage,8%,15%,,,,,Necromancer
+Suffix,of Bursting,Increases Bone Spikes Damage,8%,15%,,,,,Necromancer
+Suffix,of Seeking,Increases Bone Spirit Damage,8%,15%,,,,,Necromancer
+Suffix,of Impaling,Increases Bone Spear Damage,8%,15%,,,,,Necromancer
+Suffix,of Bone,Increases Bone Armor Damage,8%,15%,,,,,Necromancer
+Suffix,of Golem Mastery,Increases Command Golem Damage,8%,15%,,,,,Necromancer
+Suffix,of Transfusion,Increases Siphon Blood Damage,8%,15%,,,,,Necromancer
