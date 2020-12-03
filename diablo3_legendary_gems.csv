@@ -1,0 +1,24 @@
+Name,Max Ranks,Effect,Increase per Rank,Rank 25+ Effect
+Bane of the Powerful,150,Gain 20% increased damage for 30.0 seconds after killing an elite pack.,+1.0 second,Gain 15% increased damage versus elites and take 15% reduced damage from elites.
+Bane of the Trapped,150,Increase damage against enemies under the effects of control-impairing effects by 15.00%.,+0.3% damage,Gain an aura taht reduces the movement speed of enemies within 15 years by 30%.
+Bane of the Stricken,150,Each attack you make against an enemy increases the damage it takes from your attacks by 0.80%.,+0.01% damage,Gain 25% increased damage against bosses and Rift Guardians.
+Boon of the Hoarder,50,25.0% chance on killing an enemy to cause an explosion of gold.,+1.5% chance,Gain 30% increased movement speed for 2 seconds after picking up gold.
+Boyarsky's Chip,150,Adds 16000 Thorns.,+800 Thorns,Taunt the first enemy hit by your Primary skills for 2 seconds.
+Enforcer,150,Increase the damage of your pets by 15.00%.,+0.3% damage,Your pets take 90% less damage.
+Esoteric Alteration,150,Gain 10.0% non-Pysical damage reduction.,+0.5% damage reduction,"While below 50% Life, your resistances to Cold, Fire, Lightning, Poison and Arcane are increased by 75%."
+Gem of Ease,150,Monster kills grant +500 experience.,+50 experience,Level requirement of the item this gem is socketed into is set to 1.
+Gem of Efficacious Toxin,150,Poison all enemies hit for 2000% weapon damage over 10 seconds.,+50% weapon damage,All enemies you poison take 10% increased damage from all sources and deal 10% less damage.
+Gogok of Swiftness,150,"Gain Swiftness with every attack,increasing your Arrack Speed by 1% and Dodge by 0.50% for 4 seconds. This effect stacks up to 15 times.",+0.01% Dodge,Gain 1% Cooldown reduction per stack of Swiftness.
+Iceblink,50,Your Cold skills now apply Chill effects and your Chill effects now Slow enemy movement by an additional 5.0%,+0.4% movement,Enemies you Chill have a 10% chance to be Critically Hit.
+Invigorating Gemstone,150,Each hit done increases healing received by 1.00% for 5 seconds. Stacks up to 10 times.,+0.02% healing,You are immune to control impairing effects.
+Legacy of Dreams,99,"While you have no set bonuses equipped, every legendary iem you have equipped increases your damage dealt by 3.75% and reduces your damage taken by 2%.",+3.75% damage,This bonus is doubled for Ancient items.
+"Mirinae, Teardrop of the Starweaver",150,15% chance on hit to smite a nearby enemy for 3000% weapon damage as Holy and heal yourself for 3% of your maximum health.,+60% weapon damage,Smite a nearby enemy every 3 seconds.
+Molten Wildebeest's Gizzard,150,Regenerates 10000 Life per Second.,+1000 Life per Second,"After not taking damage for 4 seconds, gain an absorb shield for 200% of your total Life per Second."
+Moratorium,150,35% of all damage taken is instead staggered and dealt to you over 3.00 seconds.,+0.1 second,20% chance on kill to clear all staggered damage.
+Mutilation Guard,150,Gain 10.0% melee damage reduction.,+0.5% damage reduction,"While below 50% Life, you may move unhindered through enemies."
+Pain Enhancer,150,Critical hits cause the enemy to bleed for 2500.0% weapon damage as Physical over 3 seconds.,+50.0% weapon damage,"Gain Blood Frenzy, granting you 3% increased Attack Speed for each bleeding enemy within 20 yards."
+Red Soul Shard,150,"Periodically struggle for control, unleashing a ring of Fire that inflicts 12500% damage to enemies it passes through.",+50% damage,"After gaining a level,your resource costs are removed and cooldowns on skills are reduced by 75% for 30 seconds."
+Simplicity's Strength,150,Increase the damage of primary skills by 25.00%,+0.5% damage,Hits with primary abilities heal you for 4% of your maximum health.
+Taeguk,150,Gain 2.00% increased damage for 1.5 seconds when you spend resource on a channeled skill. This effect stacks up to 10 times.,+0.04% damage,Gain 2.0% increased Armor for every stack.
+Wreath of Lightning,150,"15% chance on hit to gain a Wreath of Lightning, dealing 1250.0% weapon damage as Lightning every second to nearby enemies for 3 seconds.",+25.0% weapon damage,"While under the effect of the Wreath of Lightning, gain 25% increased movement speed."
+Zei's Stone of Vengeance,150,Damage you deal is increased by 4.00% for every 10 yards between you and the enemy hit. Maximum 20.00% increase at 50 yards.,+0.05%/+0.25% damage,20% chance on hit to Stun the enemy for 1 second.
